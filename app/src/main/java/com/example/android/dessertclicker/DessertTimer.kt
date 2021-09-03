@@ -38,6 +38,8 @@ import androidx.lifecycle.OnLifecycleEvent
  * https://developer.android.com/guide/components/processes-and-threads
  *
  */
+ 
+ // Well designed following best practices
 class DessertTimer(lifecycle: Lifecycle) : LifecycleObserver {
 
     // The number of seconds counted since the timer started
