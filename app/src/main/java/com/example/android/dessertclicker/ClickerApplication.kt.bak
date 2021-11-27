@@ -3,7 +3,6 @@ package com.example.android.dessertclicker
 import android.app.Application
 import timber.log.Timber
 
-// Following best practices
 //separation of concern
 //Well designed architecture
 class ClickerApplication : Application() {
