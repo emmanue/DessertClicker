@@ -14,7 +14,7 @@
 // * limitations under the License.
 // */
 
-
+// Readable and Maintainable code
 // Following best practices
 
 package com.example.android.dessertclicker

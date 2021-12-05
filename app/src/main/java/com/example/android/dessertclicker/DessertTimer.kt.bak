@@ -14,6 +14,9 @@
 // * limitations under the License.
 // */
 
+
+// Following best practices
+
 package com.example.android.dessertclicker
 
 import android.os.Handler
